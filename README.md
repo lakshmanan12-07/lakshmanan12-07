@@ -1,11 +1,19 @@
 <h1 align="center">Hi there, I'm Lakshmanan 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>
+  <!-- Node.js -->
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="60" height="60"/>
+
+  <!-- TypeScript -->
+  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="60" height="60"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="60" height="60"/>
+
+  <!-- AWS -->
+  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="60" height="60"/>
 </p>
+
 
 
 <p align="center">
