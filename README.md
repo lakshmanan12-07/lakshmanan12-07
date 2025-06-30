@@ -106,7 +106,8 @@ I'm a passionate **Backend Developer** with 2+ years of experience designing and
 ## 📫 Let's Connect
 
 - 📧 Email: [12twins7@gmail.com](mailto:12twins7@gmail.com)  
-- 💼 LinkedIn: [www.linkedin.com](www.linkedin.com/in/lakshmanan-m-193308212)  
+- 💼 LinkedIn: [www.linkedin.com](www.linkedin.com/in/lakshmanan-m-193308212)
+- 📱 Phone: [+91 6379099784](tel:+916379099784)
 
 ---
 
