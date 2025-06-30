@@ -3,13 +3,10 @@
 <p align="center">
   <!-- Node.js -->
   <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;
   <!-- TypeScript -->
   <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;
   <!-- PostgreSQL -->
   <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;
   <!-- AWS -->
   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="60" height="60"/>
 </p>
