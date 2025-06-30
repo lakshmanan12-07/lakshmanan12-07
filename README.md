@@ -91,8 +91,8 @@ I'm a passionate **Backend Developer** with 2+ years of experience designing and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmanan-m&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanan-m&theme=tokyonight" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmanan12-07&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanan12-07&theme=tokyonight" width="450" />
 </p>
 
 ---
@@ -100,8 +100,7 @@ I'm a passionate **Backend Developer** with 2+ years of experience designing and
 ## 📫 Let's Connect
 
 - 📧 Email: [12twins7@gmail.com](mailto:12twins7@gmail.com)  
-- 🌐 Portfolio: [https://cognispot.ai](https://cognispot.ai)  
-- 💼 LinkedIn: *Coming soon?*
+- 💼 LinkedIn: [www.linkedin.com](www.linkedin.com/in/lakshmanan-m-193308212)  
 
 ---
 
