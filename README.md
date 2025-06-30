@@ -1,19 +1,14 @@
-<h1 align="center">Hi there, I'm Lakshmanan 👋</h1>
+![image](https://github.com/user-attachments/assets/32913c62-c9eb-4029-bb98-44fcde016cac)<h1 align="center">Hi there, I'm Lakshmanan 👋</h1>
 
 <p align="center">
-  <!-- Node.js -->
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="60" height="60"/>
-
-  <!-- TypeScript -->
-  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="60" height="60"/>
-
-  <!-- PostgreSQL -->
-  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="60" height="60"/>
-
-  <!-- AWS -->
-  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="50" height="50"/>
 </p>
-
 
 
 <p align="center">
